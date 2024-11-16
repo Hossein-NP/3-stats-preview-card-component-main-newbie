@@ -93,7 +93,7 @@ body {
 .card-box__img {
   width: 100%;
   aspect-ratio: 4 / 3; /* نسبت تصویر */
-  background: linear-gradient(rgba(171, 92, 219, 0.5), rgba(171, 92, 219, 0.5)),
+  background: linear-gradient(rgba(114, 43, 158, 0.644), rgba(114, 43, 158, 0.644)),
   url('Assets/Images/image-header-mobile.jpg');
   background-size: cover;
   background-position: center;
