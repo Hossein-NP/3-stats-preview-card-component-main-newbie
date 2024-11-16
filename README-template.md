@@ -100,11 +100,6 @@ The image and the demon have the same dimensions, and we defined a radius for th
 }
 ```
 
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
-
 ### Useful resources
 
 - [Tailwind css](https://tailwindcss.com/docs/installation) - use container and media query dimensions
@@ -114,6 +109,6 @@ If you want more help with writing markdown, we'd recommend checking out [The Ma
 
 ## Author
 
-- Frontend Mentor - [@hossein-np](https://www.frontendmentor.io/profile/yourusername)
-- Github - [@hossein-np](https://www.twitter.com/yourusername)
+- Frontend Mentor - [@hossein-np](https://www.frontendmentor.io/profile/Hossein-NP)
+- Github - [@hossein-np](https://github.com/Hossein-NP)
 
