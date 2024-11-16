@@ -94,7 +94,7 @@ body {
   width: 100%;
   aspect-ratio: 4 / 3; /* نسبت تصویر */
   background: linear-gradient(rgba(171, 92, 219, 0.5), rgba(171, 92, 219, 0.5)),
-  url('../Images/image-header-mobile.jpg');
+  url('Assets/Images/image-header-mobile.jpg');
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
