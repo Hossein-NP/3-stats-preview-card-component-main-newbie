@@ -1,0 +1,36 @@
+@font-face {
+    font-family: 'Lexend Deca';
+    src: url('LexendDeca-Regular.eot');
+    src: local('Lexend Deca Regular'), local('LexendDeca-Regular'),
+        url('LexendDeca-Regular.eot?#iefix') format('embedded-opentype'),
+        url('LexendDeca-Regular.woff2') format('woff2'),
+        url('LexendDeca-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter 18pt';
+    src: url('Inter18pt-Bold.eot');
+    src: local('Inter 18pt Bold'), local('Inter18pt-Bold'),
+        url('Inter18pt-Bold.eot?#iefix') format('embedded-opentype'),
+        url('Inter18pt-Bold.woff2') format('woff2'),
+        url('Inter18pt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Inter 24pt';
+    src: url('Inter24pt-Regular.eot');
+    src: local('Inter 24pt Regular'), local('Inter24pt-Regular'),
+        url('Inter24pt-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Inter24pt-Regular.woff2') format('woff2'),
+        url('Inter24pt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
