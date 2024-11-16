@@ -16,7 +16,7 @@ This is a solution to the [Stats preview card component on Frontend Mentor](http
 ### Screenshot
 
 ![Desktop](./Assets/Images/Screenshot%202024-11-16%20095705.png)
-![Mobile](./images/Mobile.jpg)
+![Mobile](./Assets/Images/Mobile.jpg.png)
 
 
 
